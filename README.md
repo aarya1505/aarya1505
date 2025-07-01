@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Aarya 👋
 
-<!--
-**aarya1505/aarya1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BSc Computer Science student  
+💻 Web Developer Intern @ HealingUp  
+📊 Learning: Python, Data Science, Pandas, ML, Power BI  
+🚀 Actively building projects and looking for internship/freelance opportunities  
+🔗 Connect with me on [LinkedIn](www.linkedin.com/in/aarya-gawade-dec1512)
 
-Here are some ideas to get you started:
+🌱 Currently working on:
+- Personal portfolio website
+- Data visualization with Power BI
+- Data analysis with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Tech Stack:
+- Python, HTML/CSS, JavaScript, MySQL  
+- Pandas, NumPy, Scikit-learn, Power BI
+
