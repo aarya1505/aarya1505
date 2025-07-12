@@ -8,7 +8,7 @@
 
 🌱 Currently working on:
 - Personal portfolio website
-- Data visualization with Power BI
+- Python Chatbot with NLP
 - Data analysis with Python.
 
 📌 Tech Stack:
